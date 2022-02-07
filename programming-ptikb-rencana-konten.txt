@@ -3,7 +3,12 @@ rencana programming ptik b
 -javascript
   *ES6
   * Framework Javascript
+  ^ Vue
+  ^ rieck
 -Struktur Data dasar
 -php frameworks
+  ^ Laravel
 -interview
-vlogs
+-vlogs
+-python
+
