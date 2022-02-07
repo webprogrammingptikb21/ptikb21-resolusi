@@ -1,6 +1,8 @@
 rencana programming ptik b
 
 -javascript
+  *ES6
+  * Framework Javascript
 -php frameworks
 -interview
 vlogs
